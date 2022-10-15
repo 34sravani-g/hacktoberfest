@@ -363,6 +363,12 @@
 - Bio: Aspiring Software Engineer
 - GitHib: [Anupesh](https://github.com/anupeshverma)
 
+#### Name: [Sravani](https://github.com/34sravani-g)
+
+- Place: Hyderabad, Telangana
+- Bio: Aspiring Software Engineer
+- GitHub: [Sravani](https://github.com/34sravani-g)
+
 #### Name: [Hamza Nawab](https://github.com/blazenn2)
 
 - Place: Karachi, Sindh, Pakistan
